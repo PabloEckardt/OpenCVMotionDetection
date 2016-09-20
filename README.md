@@ -58,6 +58,16 @@ This is not particularily great to track a face since a face has many points in 
 
 ![alt tag](https://github.com/PabloEckardt/OpenCVMotionDetection/blob/master/demo.png)
 
+## To do:
+
+-[ ] Accept keyboard inputs to toggle threshold mode/grey modes.
+
+-[ ] Dynamically create target points. (currently limited at 4).
+
+-[ ] Implement dynamic threshold.
+
+-[ ] Implement multi-threading. 
+
 
 
 
